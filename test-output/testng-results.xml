@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-02-20T18:16:45 PST" name="Default suite" finished-at="2025-02-20T18:16:49 PST" duration-ms="3656">
+    <groups>
+    </groups>
+    <test started-at="2025-02-20T18:16:45 PST" name="Default test" finished-at="2025-02-20T18:16:49 PST" duration-ms="3656">
+      <class name="com.automation.tests.GoogleSearchTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.automation.tests.GoogleSearchTest@3a7442c7]" started-at="2025-02-20T18:16:45 PST" name="setup" finished-at="2025-02-20T18:16:46 PST" duration-ms="188" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="initializeTest()[pri:0, instance:com.automation.tests.GoogleSearchTest@3a7442c7]" started-at="2025-02-20T18:16:46 PST" name="initializeTest" finished-at="2025-02-20T18:16:47 PST" duration-ms="1440" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeTest -->
+        <test-method signature="testGoogleSearch()[pri:0, instance:com.automation.tests.GoogleSearchTest@3a7442c7]" started-at="2025-02-20T18:16:47 PST" name="testGoogleSearch" finished-at="2025-02-20T18:16:49 PST" duration-ms="1673" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGoogleSearch -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.automation.tests.GoogleSearchTest@3a7442c7]" started-at="2025-02-20T18:16:49 PST" name="tearDown" finished-at="2025-02-20T18:16:49 PST" duration-ms="326" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.automation.tests.GoogleSearchTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
